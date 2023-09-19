@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\TODO\\puroUnrealC++VTpractica\\Componentes\\Source\\Componentes\\Componentes.Build.cs",
+		"C:\\TODO\\puroUnrealC++VTpractica\\Componentes\\Source\\Componentes.Target.cs",
+		"C:\\TODO\\puroUnrealC++VTpractica\\Componentes\\Source\\ComponentesEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

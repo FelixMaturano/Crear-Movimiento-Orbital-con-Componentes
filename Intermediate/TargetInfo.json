@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Componentes",
+			"Path": "C:\\TODO\\puroUnrealC++VTpractica\\Componentes\\Source\\Componentes.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ComponentesEditor",
+			"Path": "C:\\TODO\\puroUnrealC++VTpractica\\Componentes\\Source\\ComponentesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

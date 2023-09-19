@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Componentes.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D30F1619-E6C7-497F-9DE4-BFE73BF85F7B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Componentes.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ComponentesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9DE5DEF2-546A-45F6-BD05-D57793AE9755}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Componentes">
+      <UniqueIdentifier>{F9739D72-2C9F-43D5-B1F7-359ECC495DF6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Componentes\Componentes.Build.cs">
+      <Filter>Source\Componentes</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Componentes\Componentes.cpp">
+      <Filter>Source\Componentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Componentes\Componentes.h">
+      <Filter>Source\Componentes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Componentes\ComponentesCharacter.cpp">
+      <Filter>Source\Componentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Componentes\ComponentesCharacter.h">
+      <Filter>Source\Componentes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Componentes\ComponentesGameMode.cpp">
+      <Filter>Source\Componentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Componentes\ComponentesGameMode.h">
+      <Filter>Source\Componentes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Componentes\OrbitingMovementComponent.cpp">
+      <Filter>Source\Componentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Componentes\OrbitingMovementComponent.h">
+      <Filter>Source\Componentes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
